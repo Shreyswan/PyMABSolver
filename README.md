@@ -1,6 +1,6 @@
 # PyMABSolver 🤖
 
-## About the Owner:
+## About the Developer:
 - Name: Shreyas Sawant
 - College: Mukesh Patel School of Technology Management and Engineering
 - Department: Artificial Intelligence
