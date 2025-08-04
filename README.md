@@ -23,5 +23,3 @@ The library handles the outputs randomly and for this version, there is no way o
     4. epsilon (eps): [only while using Epsilon Greedy] A float number between 0 and 1 acting as a threshold for Exploring vs Exploiting
 * Next call erspective functions namely: exploration, exploitation, fixed_exploration_greedy_exploitation, epsilon_greedy
 * (Optional) Finally for visualisation the plot_comparison function can be called
-
-For Referal code follow below GitHub link
