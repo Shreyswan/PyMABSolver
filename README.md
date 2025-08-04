@@ -1,10 +1,10 @@
 # PyMABSolver 🤖
 
 ## About the Owner:
-Name: Shreyas Sawant
-College: Mukesh Patel School of Technology Management and Engineering
-Department: Artificial Intelligence
-Related Course: Reinforcement Learning
+- Name: Shreyas Sawant
+- College: Mukesh Patel School of Technology Management and Engineering
+- Department: Artificial Intelligence
+- Related Course: Reinforcement Learning
 
 ## About the Library
 
