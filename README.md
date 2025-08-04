@@ -1,5 +1,13 @@
 # PyMABSolver 🤖
 
+## About the Owner:
+Name: Shreyas Sawant
+College: Mukesh Patel School of Technology Management and Engineering
+Department: Artificial Intelligence
+Related Course: Reinforcement Learning
+
+## About the Library
+
 The MAB solver or the Multi Agent Bandit problem solver consists of four main functions.
 Naturally it is meant to solve the MAB problem but it uses Pure Exploration, Pure exploitation, Fixed Exploration + Greedy Exploitation and finally Epsilon Greedy approach.
 There are a handful of parameters which can be tweaked like time steps (t), number of arms (n), fixed time steps (tf) (used in Fixed Exploration + Greedy Exploitation) and epsilon (eps) (used in Epsilon Greedy).
