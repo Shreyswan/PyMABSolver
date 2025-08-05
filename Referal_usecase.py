@@ -1,4 +1,6 @@
-sol = MABSolver(n=5, t=500, tf=200, eps=0.1, init_t=3, c=0.2)
+import PyMABSolver as pm
+
+sol = pm.MABSolver(n=5, t=500, tf=200, eps=0.1, init_t=3, c=0.2)
 
 avg_rew_list_expr, rewards = sol.exploration()
 avg_rew_list_expl, rewards = sol.exploitation()
