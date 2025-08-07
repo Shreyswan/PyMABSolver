@@ -1,4 +1,5 @@
 # PyMABSolver 🤖
+(Current version: 0.7)
 
 ## About the Developer:
 - Name: Shreyas Sawant
